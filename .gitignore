@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Downloaded data
+Data-main/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.kaggle/
+kaggle.json
