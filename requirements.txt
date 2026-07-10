@@ -1,5 +1,6 @@
 ipykernel
 kagglehub
+lightning
 matplotlib
 numpy
 pandas
