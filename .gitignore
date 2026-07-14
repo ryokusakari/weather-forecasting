@@ -15,3 +15,7 @@ __pycache__/
 .env
 .kaggle/
 kaggle.json
+
+# Pytorch and lightning logs
+lightning_logs/
+checkpoints/
